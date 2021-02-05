@@ -56,6 +56,9 @@
       <path value="$PROJECT_DIR$/vendor/symfony/security-core" />
       <path value="$PROJECT_DIR$/vendor/symfony/security-http" />
       <path value="$PROJECT_DIR$/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/maker-bundle" />
     </include_path>
   </component>
   <component name="ProjectId" id="1nZ0Wi0cv8EDKQXDfW22kriQjyG" />
@@ -90,6 +93,8 @@
       <workItem from="1611745241234" duration="3082000" />
       <workItem from="1611803507426" duration="7000" />
       <workItem from="1612016578839" duration="723000" />
+      <workItem from="1612160959294" duration="358000" />
+      <workItem from="1612534946742" duration="323000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1611582892062</created>
